@@ -1,8 +1,7 @@
 # configuring-ubuntu
 for running ros and our project and stuff
 
-## todo
-	1. move piberry configuration/dependency stuff to that git
+## WHEN IN DOUBT: source ~/catkin_ws/devel/setup.bash
 
 ---------------------------------------------
 ## alternatively just use my chromebook (username: mercury password: ubuntuubuntu)
