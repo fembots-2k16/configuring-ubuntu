@@ -2,8 +2,7 @@
 for running ros and our project and stuff
 
 ## todo
-	1. move homework5 configuration stuff to that git
-	2. move piberry configuration/dependency stuff to that git
+	1. move piberry configuration/dependency stuff to that git
 
 ---------------------------------------------
 ## alternatively just use my chromebook (username: mercury password: ubuntuubuntu)
@@ -42,17 +41,5 @@ for running ros and our project and stuff
     $ cd ~
     
     $ git clone https://github.com/fembots-2k16/piberry-launch
-
-5. set up apriltags and ur camera
-
-    http://people.csail.mit.edu/kaess/apriltags/
-
-    $ sudo apt-get install ros-indigo-usb-cam ros-indigo-image-pipeline
     
-    $ sudo apt-get install ros-indigo-apriltags ros-indigo-apriltags-ros
-    
-6. download homework 5 launch files and controllers
-
-    $ cd ~
-
-    $ git clone https://github.com/fembots-2k16/homework5
+5. set up homework5: https://github.com/fembots-2k16/homework5
