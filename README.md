@@ -41,7 +41,14 @@ for running ros and our project and stuff
 
 5. set up apriltags and ur camera
 
+    http://people.csail.mit.edu/kaess/apriltags/
+
     $ sudo apt-get install ros-indigo-usb-cam
     
     $ sudo apt-get install ros-indigo-apriltags ros-indigo-apriltags-ros
     
+6. download homework 5 launch files and controllers
+
+    $ cd ~
+
+    $ git clone https://github.com/fembots-2k16/homework5
