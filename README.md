@@ -1,6 +1,10 @@
 # configuring-ubuntu
 for running ros and our project and stuff
 
+## todo
+	1. move homework5 configuration stuff to that git
+	2. move piberry configuration/dependency stuff to that git
+
 ---------------------------------------------
 ## alternatively just use my chromebook (username: mercury password: ubuntuubuntu)
 
@@ -43,7 +47,7 @@ for running ros and our project and stuff
 
     http://people.csail.mit.edu/kaess/apriltags/
 
-    $ sudo apt-get install ros-indigo-usb-cam
+    $ sudo apt-get install ros-indigo-usb-cam ros-indigo-image-pipeline
     
     $ sudo apt-get install ros-indigo-apriltags ros-indigo-apriltags-ros
     
