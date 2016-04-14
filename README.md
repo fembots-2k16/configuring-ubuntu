@@ -36,10 +36,6 @@ for running ros and our project and stuff
     
     $ catkin_make
 
-4. get piberry launch stuff (TODO:: dependencies??)
-
-    $ cd ~
-    
-    $ git clone https://github.com/fembots-2k16/piberry-launch
+4. get piberry launch stuff: https://github.com/fembots-2k16/piberry-launch
     
 5. set up homework5: https://github.com/fembots-2k16/homework5
